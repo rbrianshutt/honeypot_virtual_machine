@@ -3,18 +3,16 @@
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/honeypot.png)
 
 <h2>Description</h2>
-Sample text
+Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data.
 <br />
 
+<h2>Techonology used</h2>
 
-<h2>Languages and Utilities Used</h2>
+- <b>Azure</b> 
+- <b>PowerShell ISO</b>
+- <b>Windows</b>
+- <b>ipgeolocation.io/</b>
 
-- <b>PowerShell</b> 
-
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
@@ -24,7 +22,6 @@ Sample text:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
 <br />
 <br />
-
 Sample text:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/setup_virtual_machine.PNG)
 <br />
