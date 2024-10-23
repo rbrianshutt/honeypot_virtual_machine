@@ -37,12 +37,12 @@ Custom script in Powershell ISO from [Josh Madakor](https://github.com/joshmadak
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/script_security_log_powershell.PNG)
 <br />
 <br />
-3rd party API using ipgeolation.io.  Get API key and paste in custom Powershell script:  <br/>
+3rd party API using ipgeolation.io.  Get API key and paste in custom Powershell script  Run the Poweshell script :  <br/>
 
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/ipgeolocation.PNG)
 <br />
 <br />
-Event Viewer showing logon failures indicating brute force attacks:  <br/>
+Run the Poweshell script.Event Viewer showing logon failures indicating brute force attacks:  <br/>
 
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/event_viewer.PNG)
 <br />
