@@ -19,15 +19,12 @@ Sample text
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Sample text:  <br/>
  
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
 <br />
 <br />
-Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
-<br />
-<br />
+
 Sample text:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/setup_virtual_machine.PNG)
 <br />
