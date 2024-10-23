@@ -49,7 +49,7 @@ Event Viewer showing logon failures indicating brute force attacks:  <br/>
 <br />
 Running Powershell script that is parsing geolocation data from attacks around the world.  
 - <b>Attacks were mostly from Kyiv, Ukraine, but also included locations including Russia, Belize, Netherlands, Turkey, Malaysia, Morocco, Brazil, New York and Washington in the US : </b>
-- <br/>
+<br/>
 
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/powershell_script_parsing_data.PNG)
 
