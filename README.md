@@ -12,7 +12,7 @@ I set up a honeypot virtual machine in Azure.  All firewalls were removed to ent
 - <b>PowerShell ISO</b>
 - <b>Windows</b>
 - <b>ipgeolocation.io</b>
-
+- <b>Remote Desktop Connection</b>
 
 <h2>Program walk-through:</h2>
 
@@ -42,7 +42,7 @@ Custom script in Powershell ISO from [Josh Madakor](https://github.com/joshmadak
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/ipgeolocation.PNG)
 <br />
 <br />
-Run the Poweshell script.Event Viewer showing logon failures indicating brute force attacks:  <br/>
+Event Viewer showing logon failures indicating brute force attacks:  <br/>
 
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/event_viewer.PNG)
 <br />
