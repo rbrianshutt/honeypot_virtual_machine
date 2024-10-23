@@ -32,7 +32,7 @@ Disabling firewall protections in VM Windows host to invite cyber attacks:  <br/
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/disable_fireware.PNG)
 <br />
 <br />
-Custom script in Powershell ISO from [Josh Madakor]([https://www.example.com](https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1)):  <br/>
+Custom script in Powershell ISO from [Josh Madakor]([https://www.example.com](https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1) :  <br/>
 
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/script_security_log_powershell.PNG)
 <br />
