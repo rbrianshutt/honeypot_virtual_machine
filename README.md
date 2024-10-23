@@ -3,7 +3,7 @@
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/honeypot.png)
 
 <h2>Description</h2>
-I set up a honeypot virtual machine in Azure.  All firewalls were removed to entice cyber attacks from around the world. I used a custom PowerShell script  from [Josh Madakor](https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1) to extract metadata to derive the geolocation data.   
+I set up a honeypot virtual machine in Azure.  All firewalls were removed to entice cyber attacks from around the world. I used a custom PowerShell script  from [Josh Madokor](https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1) to extract metadata to derive the geolocation data.   
 <br />
 
 <h2>Techonology used</h2>
