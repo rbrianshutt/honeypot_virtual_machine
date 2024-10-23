@@ -3,7 +3,7 @@
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/honeypot.png)
 
 <h2>Description</h2>
-Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data.
+I set up a honeypot virtual machine in Azure.  All firewalls were removed to entice cyber attacks from around the world. I used a custom PowerShell script to extract metadata to derive the geolocation data.   
 <br />
 
 <h2>Techonology used</h2>
@@ -11,39 +11,39 @@ Used custom PowerShell script to extract metadata from Windows Event Viewer to b
 - <b>Azure</b> 
 - <b>PowerShell ISO</b>
 - <b>Windows</b>
-- <b>ipgeolocation.io/</b>
+- <b>ipgeolocation.io</b>
 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Sample text:  <br/>
+Creating a virtual machine in Azure:  <br/>
  
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
 <br />
 <br />
-Sample text:  <br/>
+Setting up the virtual machine:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/setup_virtual_machine.PNG)
 <br />
 <br />
-Sample text:  <br/>
+Disabling firewall protections in VM Windows host to invite cyber attacks:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/disable_fireware.PNG)
 <br />
 <br />
-Sample text:  <br/>
+Custom script in Powershell ISO:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/script_security_log_powershell.PNG)
 <br />
 <br />
-Sample text:  <br/>
+3rd party API using ipgeolation.io.  Get API key:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/ipgeolocation.PNG)
 <br />
 <br />
-Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/powershell_script_parsing_data.PNG)
-<br />
-<br />
-Sample text:  <br/>
+Event Viewer showing logon failures indicating brute force attacks:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/event_viewer.PNG)
+<br />
+<br />
+Running Powershell script that is parsing geolocation data from attacks around the world.  Attacks were mostly from Kyiv, Ukraine, but also included locations including Russia, Belize, Netherlands, Turkey, Malaysia, Morocco, Brazil, New York and Washington in the US :  <br/>
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/powershell_script_parsing_data.PNG)
 </p>
 
 <!--
