@@ -1,5 +1,7 @@
 <h1>Setting Up a Honeypot and Analyzing the Logs</h1>
 
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/honeypot.png)
+
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
