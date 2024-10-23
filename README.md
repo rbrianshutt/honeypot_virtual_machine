@@ -47,9 +47,11 @@ Event Viewer showing logon failures indicating brute force attacks:  <br/>
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/event_viewer.PNG)
 <br />
 <br />
-Running Powershell script that is parsing geolocation data from attacks around the world.  Attacks were mostly from Kyiv, Ukraine, but also included locations including Russia, Belize, Netherlands, Turkey, Malaysia, Morocco, Brazil, New York and Washington in the US :  <br/>
+Running Powershell script that is parsing geolocation data from attacks around the world.  
+-Attacks were mostly from Kyiv, Ukraine, but also included locations including Russia, Belize, Netherlands, Turkey, Malaysia, Morocco, Brazil, New York and Washington in the US :  <br/>
 
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/powershell_script_parsing_data.PNG)
+
 </p>
 
 <!--
