@@ -29,27 +29,27 @@ Sample text:  <br/>
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/setup_virtual_machine.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/disable_fireware.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/script_security_log_powershell.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/ipgeolocation.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/powershell_script_parsing_data.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/event_viewer.PNG)
 </p>
 
 <!--
