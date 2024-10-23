@@ -1,4 +1,4 @@
-<h1>Setting Up a Honeypot and Analyzing the Logs</h1>
+<h1>Setting Up a Honeypot Virtual Machine and Analyzing the Logs</h1>
 
 ![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/honeypot.png)
 
